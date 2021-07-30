@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: Contact Us
-    link: contact
+    link: mailto:abc@xyz.com
 feature:
   enable: true
   title: Something You Need To Know
