@@ -1,4 +1,4 @@
-baseURL = "http://thecontentium.netlify.com"
+baseURL = "http://thecontentium.netlify.app"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
