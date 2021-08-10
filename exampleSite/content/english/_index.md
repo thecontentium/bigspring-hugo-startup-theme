@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Get your content delivered without any fuss
+  title: Get your content delivered. You ask, we create
   image: images/banner-art.svg
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
     maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
